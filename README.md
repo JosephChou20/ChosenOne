@@ -1,4 +1,4 @@
-# chosen-one
+# ChosenOne
 First repository
 
 Hello world!
