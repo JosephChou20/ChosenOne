@@ -1,7 +1,7 @@
 # chosen-one
-first repository
+First repository
 
-hello world!
+Hello world!
 
 It is a lovely day today.
 Try to learn something here.
